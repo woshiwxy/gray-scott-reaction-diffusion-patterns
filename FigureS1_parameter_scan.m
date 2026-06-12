@@ -1,9 +1,25 @@
 %% ================================================================
-% Gray-Scott Reaction-Diffusion Model
-% 2D periodic domain
-% Fourth-order Runge-Kutta (RK4)
+% FigureS1_parameter_scan.m
 %
-% Suitable for large parameter scans
+% Generate Supplementary Figure S1
+%
+% Gray–Scott reaction–diffusion model
+% 2D periodic domain
+% Fourth-order Runge–Kutta (RK4)
+%
+% Purpose:
+% Perform a systematic scan of Du and Dv
+% and generate the pattern atlas shown in
+% Supplementary Figure S1.
+%
+% Figure S1:
+% Upper panel:
+%     F = 0.045
+%     k = 0.060
+%
+% Lower panel:
+%     F = 0.040
+%     k = 0.060
 %
 % Author: Xinyu Wang
 % Date: 2026
