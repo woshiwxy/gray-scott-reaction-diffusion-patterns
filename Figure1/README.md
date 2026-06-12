@@ -39,4 +39,3 @@ The generated patterns correspond to Figure 1c–e in the manuscript.
 ## Related Files
 
 * Figure1_simulation.m
-* Figure1_plot.m
